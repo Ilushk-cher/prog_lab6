@@ -1,0 +1,22 @@
+<Array>
+  <HumanBeing>
+    <id>1</id>
+    <name>dfhe</name>
+    <coordinates>
+      <x>2</x>
+      <y>2.0</y>
+    </coordinates>
+    <creationDate>2024-03-07 08:34:46.712 UTC</creationDate>
+    <realHero>true</realHero>
+    <hasToothpick>true</hasToothpick>
+    <impactSpeed>2</impactSpeed>
+    <weaponType>BAT</weaponType>
+    <mood>CALM</mood>
+    <car>
+      <name>jd</name>
+    </car>
+  </HumanBeing>
+  <InitTime>2024-03-07T11:34:35.981813</InitTime>
+  <lastSaveTime>2024-03-07T11:34:50.436059</lastSaveTime>
+  <maxPrice>104.82843</maxPrice>
+</Array>
